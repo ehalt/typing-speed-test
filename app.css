@@ -1,0 +1,87 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Syne+Mono&display=swap');
+/* 
+    font-family: 'Syne Mono', monospace;
+*/
+
+
+
+body{
+    background:#d7dbdd  ;
+}
+
+
+.masthead{
+    background: #2e86c1;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.masthead h1{
+    text-align: center;
+    font-weight: bold;
+    color:#fff;
+    font-family: 'Syne Mono', monospace;
+    font-size: 50px;
+    
+}
+
+.intro{
+    background:  #16a085;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.intro p{
+    text-align: center;
+    text-align:justify;
+    font-size: 20px;
+    color:#fff;
+}
+
+.test-area{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#origin-text{
+    background: #e5e8e8;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 10px;
+}
+#origin-text p{
+    padding-top: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    font-size: 25px;
+
+}
+
+.test-wrapper textarea{
+    width:100%;
+}
+
+.test-wrapper {
+    border: 10px solid grey;
+    border-radius: 10px;
+}
+
+
+.timer {
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.butto{
+    padding-top: 7%;
+
+}
+#reset{
+    width:100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 25px;
+}
